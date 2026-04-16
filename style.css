@@ -333,7 +333,7 @@ h2 {
 /* For screens up to 768px wide (tablets and smaller) */
 @media (max-width: 768px) {
     .logo {
-        width: 500px;
+        width: 700px;
     }
     /* Mobile navigation */
     .menu-toggle {
